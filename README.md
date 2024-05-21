@@ -6,3 +6,8 @@ Crynux-os will be designed around modularity, making each application its own co
 - [ ] declaritive config files
 - [ ] modular app boxes
 - [ ] easy vm support
+## Naming
+- crynix
+- crynux
+- crinix
+- crinux
